@@ -1,0 +1,6 @@
+[package]
+name = "genealogy"
+version = "0.1.0"
+authors = ["chris <chris@tux.io>"]
+
+[dependencies]
