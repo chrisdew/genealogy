@@ -1,0 +1,4 @@
+postgres=# \password postgres
+Enter new password:
+Enter it again:
+postgres=#
