@@ -1,0 +1,3 @@
+https://github.com/jhoudan/botcket/blob/master/src/db.rs
+https://github.com/mgattozzi/mgattozzi/blob/master/src/client/app/posts/diesel-powered-rocket.md
+https://github.com/SergioBenitez/Rocket/tree/master/examples/todo
